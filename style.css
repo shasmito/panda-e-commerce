@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 50px;
+    margin-bottom: 80px;
 }
 .product-bg{
     background-color: #fceae8;
@@ -39,4 +39,22 @@
 }
 .categories img{
     width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+#Contact{
+    height: 300px;
+} 
+#Contact h6{
+color: gray;
+}
+footer{
+    text-align: center;
 }
